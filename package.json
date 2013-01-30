@@ -1,0 +1,9 @@
+{
+    "name": "TypeScript-Dynamic-Loading-Example",
+    "title": "TypeScript Dynamic Loading Example",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "3.x"
+    },
+    "main": "./server/server"
+}
