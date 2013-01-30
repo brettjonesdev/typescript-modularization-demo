@@ -1,7 +1,7 @@
 typescript-modularization-demo
 ==============================
 
-##A demonstration of techniques for importing JavaScript modules in TypeScript via AMD in the browser.
+###A demonstration of techniques for importing JavaScript modules in TypeScript via AMD in the browser.
 
 This project was created to demonstrate some of the ways that TypeScript can import JavaScript modules via AMD in the browser.  This is a critical capability for TypeScript, considering the wealth of third-party libraries out there to be leveraged.  
 
