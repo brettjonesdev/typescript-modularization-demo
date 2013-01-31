@@ -17,3 +17,6 @@ Note that this is a Node JS application.  If you do not wish to use Node, simply
 2. Compile TypeScript to JavaScript - build in VS 2012 or compile from command line with `tsc --module AMD .\public\script\app.ts`
 3. Start Express server - run `node server\server.js` 
 4. Point your browser at `http://localhost:8001` and you're good to go!
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/brettjonesdev/typescript-modularization-demo/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
